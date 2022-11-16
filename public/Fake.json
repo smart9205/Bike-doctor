@@ -1,0 +1,29 @@
+[
+    {
+        "_id": 1,
+        "name": "Helmet",
+        "img": "https://i.postimg.cc/SsJMxnGG/helmet.png",
+        "description": "The EPS foam provides enhanced impact absorption by utilizing various foam densities around the head and lower-key areas to protect the rider's head, face, and jaw. ",
+        "min": 70,
+        "available_quantity": 3000,
+        "price": 6
+    },
+    {
+        "_id": 2,
+        "name": "Tire",
+        "img": "https://i.postimg.cc/C52fWkn8/tire.png",
+        "description": "Dunlop's D404 rear motorcycle tire delivers the quality you expect in a motorcycle tire from one of the most experienced manufacturers of tires in the street bike tire market. ",
+        "min": 100,
+        "available_quantity": 2000,
+        "price": 10
+    },
+    {
+        "_id": 3,
+        "name": "Disc Brake",
+        "img": "https://i.postimg.cc/fLrR25mc/brake.png",
+        "description": "Arashi brake rotors are constructed from 420 stainless steel.The shape of the disc ensures good heat dissipation under heavy braking sessions,  minimizing warping, and ensuring rotor’s longevity.",
+        "min": 90,
+        "available_quantity": 1000,
+        "price": 12
+    }
+]
